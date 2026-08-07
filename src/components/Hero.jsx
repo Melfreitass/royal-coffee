@@ -1,4 +1,3 @@
-import { NavLink } from 'react-router-dom'
 import { GiCoffeeCup } from "react-icons/gi";
 import { GiCupcake } from "react-icons/gi";
 import { IoIosCafe } from "react-icons/io";
@@ -31,13 +30,7 @@ function Hero() {
                         Um ambiente pensado para você relaxar, conversar e aproveitar cada momento.
                     </p>
 
-                    <NavLink
-                        to="/Produtos"
-                        className="mt-5 w-fit bg-[#5A3825] text-white px-8 py-4 rounded-full font-medium hover:bg-[#6E472E] transition duration-300"
-                    >
-                        Conheça o Cardápio →
-                    </NavLink>
-
+                    
 
                     <div className="flex gap-8 mt-8">
 
