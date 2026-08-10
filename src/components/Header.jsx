@@ -14,8 +14,8 @@ function Header() {
 
         <nav className="flex items-center gap-12 font-medium text-[#4A2E22] ">
           <a href="#hero" className="hover:text-[#8b5224] transition">Home</a>
-          <a href="#cardapio" className="hover:text-[#8b5224] transition">Cardápio</a>
-          <a href="#sobre" className="hover:text-[#8b5224] transition">Sobre Nós</a>
+          <a href="#produtos" className="hover:text-[#8b5224] transition">Cardápio</a>
+          <a href="#beneficios" className="hover:text-[#8b5224] transition">Beneficios</a>
           <a href="#depoimento" className="hover:text-[#8b5224] transition">Depoimentos</a>
         </nav>
 
